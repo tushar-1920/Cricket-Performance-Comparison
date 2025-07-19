@@ -1,26 +1,43 @@
-# 📊 Cricket Performance Comparison
+# 🏏 Cricketer Performance Comparison
 
-This project uses **matplotlib** to plot the runs scored by two iconic Indian cricketers — **Virat Kohli** and **Virender Sehwag** — over a span of years. It visually compares their performance with a simple line graph.
+This Python project uses **Matplotlib** to visually compare the performances of three legendary Indian cricketers — **Virat Kohli**, **Virender Sehwag**, and **Sachin Tendulkar** — based on their run-scoring data over a period of years. 
 
-## 📌 Features
+The chart highlights their respective trajectories using distinct line styles, colors, and legends to make insights visually clear and compelling.
 
-- Line chart comparing runs over the years
-- Color-coded and styled lines
-- Legend, labels, and title
-- Clean and beginner-friendly Python code
+---
 
-## 📈 Graph Overview
+## 📊 Features
 
-- 🔴 Virat Kohli: Red circles with dashed lines
-- 🟢 Virender Sehwag: Green triangles with dotted lines
-- X-axis: Years (1990 - 2010)
-- Y-axis: Runs scored
+- 📈 **Line chart comparison** of runs scored by three players over time  
+- 🎨 **Stylized plots** using `ggplot` theme  
+- 🏷️ Custom line **styles, colors, and labels** for better readability  
+- 🔍 Labeled X and Y axes for clarity  
+- 📌 Grid-enabled view for better comparison  
+- ✅ Legend to identify each player’s trend line  
+- 📐 Layout automatically adjusted to prevent label overlap
 
-## 🛠️ Requirements
+---
 
-- Python 3.x
-- matplotlib
+## 🖼️ Output Preview
 
-You can install matplotlib by running:
+> When you run the script, you'll see a plot that looks something like this:
+
+![Sample Output](https://matplotlib.org/stable/_images/sphx_glr_plot_types_001.png) <!-- Replace this with your own screenshot if you want -->
+
+---
+
+## 🧰 Tech Stack
+
+- **Language:** Python 3.x  
+- **Library:** [Matplotlib](https://matplotlib.org/)
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+Make sure you have Python and Matplotlib installed:
+
 ```bash
 pip install matplotlib
