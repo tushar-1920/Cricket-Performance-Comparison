@@ -20,9 +20,7 @@ The chart highlights their respective trajectories using distinct line styles, c
 
 ## 🖼️ Output Preview
 
-> When you run the script, you'll see a plot that looks something like this:
-
-![Sample Output]("C:\Users\tusha\OneDrive\Pictures\Screenshots\Screenshot 2025-07-19 054427.png") <!-- Replace this with your own screenshot if you want -->
+See: .png file  <!-- Replace this with your own screenshot if you want -->
 
 ---
 
