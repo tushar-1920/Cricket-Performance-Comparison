@@ -20,7 +20,8 @@ The chart highlights their respective trajectories using distinct line styles, c
 
 ## 🖼️ Output Preview
 
-See: .png file  <!-- Replace this with your own screenshot if you want -->
+<img width="888" height="598" alt="Screenshot 2025-07-19 054427" src="https://github.com/user-attachments/assets/8f238d0a-86be-4494-a609-cf0fdeb41405" />
+
 
 ---
 
