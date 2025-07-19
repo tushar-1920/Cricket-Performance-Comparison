@@ -22,7 +22,7 @@ The chart highlights their respective trajectories using distinct line styles, c
 
 > When you run the script, you'll see a plot that looks something like this:
 
-![Sample Output](https://matplotlib.org/stable/_images/sphx_glr_plot_types_001.png) <!-- Replace this with your own screenshot if you want -->
+![Sample Output]("C:\Users\tusha\OneDrive\Pictures\Screenshots\Screenshot 2025-07-19 054427.png") <!-- Replace this with your own screenshot if you want -->
 
 ---
 
