@@ -1,7 +1,7 @@
 # 🏏 Cricketer Performance Comparison
 
 This Python project uses **Matplotlib** to visually compare the performances of three legendary Indian cricketers — **Virat Kohli**, **Virender Sehwag**, and **Sachin Tendulkar** — based on their run-scoring data over a period of years. 
-
+  
 The chart highlights their respective trajectories using distinct line styles, colors, and legends to make insights visually clear and compelling.
 
 ---
