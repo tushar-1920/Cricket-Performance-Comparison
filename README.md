@@ -11,7 +11,7 @@ The chart highlights their respective trajectories using distinct line styles, c
 - 📈 **Line chart comparison** of runs scored by three players over time  
 - 🎨 **Stylized plots** using `ggplot` theme  
 - 🏷️ Custom line **styles, colors, and labels** for better readability  
-- 🔍 Labeled X and Y axes for clarity  
+- 🔍 Labeled X and Y axes for clarityyy  
 - 📌 Grid-enabled view for better comparison  
 - ✅ Legend to identify each player’s trend line  
 - 📐 Layout automatically adjusted to prevent label overlap
