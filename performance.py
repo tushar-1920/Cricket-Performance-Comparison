@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 # Apply ggplot style
 plt.style.use('ggplot')
-gg
+g
 # Runs scored over years 
 kohli = [0, 0, 500, 800, 1100, 1300, 1500, 1800, 1900, 2100]
 sehwag = [0, 300, 800, 1200, 1500, 1700, 1600, 1400, 1000, 0]
